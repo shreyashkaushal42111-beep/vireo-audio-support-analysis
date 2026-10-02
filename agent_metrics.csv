@@ -1,0 +1,45 @@
+agent_id,name,site,team,shift,tier,total_tickets,resolved_closed_volume,csat_mean,csat_response_count,handle_time_mean_mins,handle_time_valid_count,sla_breach_rate,sla_breach_count,sla_eligible_count,flag_legacy_handle_excluded,flag_dual_payout_tickets,flag_csat_on_open_pending,flag_zero_xfer_team_mismatch,flag_ticket_before_order
+A3001,Reyansh Bhatt,Indore,Chat Frontline,Night,1,208,203,3.6374,91,324.27,138,0.105769,22,208,65,0,2,107,8
+A3002,Megha Sheikh,Indore,Chat Frontline,Night,1,194,180,3.6463,82,174.05,135,0.14433,28,194,45,0,6,98,6
+A3003,Deepak Saxena,Indore,Chat Frontline,Night,1,190,184,3.7222,72,716.39,128,0.163158,31,190,56,0,3,99,9
+A3004,Siddharth Kapoor,Bengaluru,Chat Frontline,Day,1,305,286,2.959,122,203.89,227,0.085246,26,305,59,0,7,0,3
+A3005,Zaid Khanna,Bengaluru,Chat Frontline,Day,1,299,279,3.0,111,253.63,219,0.083612,25,299,60,0,7,0,5
+A3006,Kavya Pandey,Indore,Chat Frontline,Morning,1,281,267,3.0303,132,326.49,206,0.088968,25,281,61,0,10,0,2
+A3007,Siddharth Trivedi,Indore,Chat Frontline,Morning,1,278,261,3.0088,113,346.42,207,0.057554,16,278,54,0,7,0,5
+A3008,Isha George,Bengaluru,Chat Frontline,Day,1,228,217,3.5556,99,206.0,170,0.078947,18,228,47,0,8,0,4
+A3009,Vihaan Menon,Bengaluru,Chat Frontline,Morning,1,211,203,3.6585,82,284.02,141,0.07109,15,211,62,0,2,0,3
+A3010,Aarav Pereira,Indore,Chat Frontline,Day,1,238,230,3.7,100,209.8,163,0.10084,24,238,67,0,2,0,13
+A3011,Divya Jadhav,Bengaluru,Chat Frontline,Day,1,240,231,3.6465,99,329.39,175,0.104167,25,240,56,0,5,0,5
+A3012,Steven Ghosh,Indore,Chat Frontline,Morning,1,205,200,3.716,81,365.93,132,0.073171,15,205,68,0,2,0,1
+A3013,Sukhwinder Rao,Indore,Chat Frontline,Day,1,207,197,3.7253,91,310.91,137,0.082126,17,207,60,0,5,0,5
+A3014,Bhavna Joshi,Indore,Chat Frontline,Morning,1,190,183,3.6883,77,471.3,131,0.073684,14,190,52,0,1,0,3
+A3015,Ishaan Dutta,Indore,Chat Frontline,Morning,1,200,193,3.6404,89,725.72,134,0.085,17,200,59,0,3,0,7
+A3016,Om Khanna,Indore,Email Frontline,Night,1,219,209,3.5769,104,239.41,147,0.150685,33,219,62,0,2,85,10
+A3017,Aadhya Rao,Indore,Email Frontline,Night,1,208,198,3.5057,87,561.4,144,0.110577,23,208,54,0,6,79,4
+A3018,Kunal Pillai,Bengaluru,Email Frontline,Morning,1,247,239,3.8161,87,632.8,175,0.093117,23,247,64,0,5,0,6
+A3019,Sai Joshi,Bengaluru,Email Frontline,Morning,1,260,249,3.6695,118,558.8,183,0.103846,27,260,66,0,7,0,5
+A3020,Riya Pillai,Bengaluru,Email Frontline,Morning,1,250,237,3.4694,98,577.9,184,0.092,23,250,53,0,3,0,3
+A3021,Geeta Sen,Indore,Email Frontline,Morning,1,255,242,3.6389,108,794.9,174,0.137255,35,255,68,1,5,0,5
+A3022,Manpreet Yadav,Bengaluru,Email Frontline,Morning,1,231,218,3.5222,90,354.48,150,0.103896,24,231,68,0,7,0,7
+A3023,Meera Patel,Indore,Voice Frontline,Morning,1,96,92,3.6667,42,84.95,63,0.0,0,96,29,0,1,0,2
+A3024,Suresh Sethi,Bengaluru,Voice Frontline,Day,1,479,464,3.5635,197,309.84,327,0.050104,24,479,137,0,7,0,13
+A3025,Ananya Das,Indore,Voice Frontline,Morning,1,118,111,3.6875,48,307.96,74,0.025424,3,118,37,0,3,0,2
+A3026,Suresh Pereira,Indore,Voice Frontline,Morning,1,104,97,3.5,40,287.16,69,0.048077,5,104,28,0,2,0,3
+A3027,Harpreet Goyal,Bengaluru,Logistics,Day,1,447,424,3.3065,199,2771.46,373,0.071588,32,447,51,0,11,0,4
+A3028,Vivaan Pandey,Bengaluru,Logistics,Morning,1,348,333,3.1241,145,2599.94,285,0.106322,37,348,48,0,9,0,1
+A3029,Kavya Pandey,Bengaluru,Logistics,Morning,1,340,326,3.1104,154,2602.95,284,0.079412,27,340,42,0,5,0,3
+A3030,Geeta Iyer,Bengaluru,Logistics,Morning,1,337,316,3.1799,139,2854.42,269,0.133531,45,337,47,1,11,0,1
+A3031,Zoya Menon,Bengaluru,Logistics,Day,1,435,404,3.2887,194,2615.34,371,0.062069,27,435,33,0,18,0,2
+A3032,Kunal Jain,Bengaluru,Billing,Day,1,382,370,3.4096,166,291.43,248,0.094241,36,382,122,0,3,0,1
+A3033,Thomas Reddy,Bengaluru,Billing,Day,1,338,311,3.6043,139,268.6,214,0.065089,22,338,97,0,12,0,5
+A3034,Meera Pereira,Bengaluru,Billing,Morning,1,361,342,3.4026,154,404.97,241,0.105263,38,361,101,0,9,0,3
+A3035,Nisha Rao,Bengaluru,Billing,Morning,1,413,384,3.4293,184,427.63,254,0.113801,47,413,130,0,12,0,5
+A3036,Divya Tiwari,Indore,Returns Desk,Day,1,257,246,3.2816,103,2156.71,218,0.105058,27,257,28,1,3,0,1
+A3037,Mohammed Desai,Indore,Returns Desk,Morning,1,563,542,3.2863,234,2322.77,494,0.101243,57,563,48,0,9,0,2
+A3038,Varun Reddy,Bengaluru,Returns Desk,Day,1,284,267,3.1864,118,2282.76,242,0.06338,18,284,25,2,3,0,4
+A3039,Sameer Ghosh,Bengaluru,Escalations & Warranty,Day,2,249,237,2.8559,111,7858.31,237,0.088353,22,249,0,0,4,0,0
+A3040,Tarun Fernandes,Indore,Escalations & Warranty,Morning,2,203,193,2.5435,92,7710.5,193,0.059113,12,203,0,1,4,0,3
+A3041,Jaspreet Desai,Bengaluru,Escalations & Warranty,Morning,2,200,189,2.4353,85,7856.53,189,0.1,20,200,0,0,4,0,0
+A3042,Sneha Sethi,Bengaluru,Escalations & Warranty,Morning,2,201,191,2.4524,84,6770.4,191,0.094527,19,201,0,0,7,0,0
+A3043,Kabir Varghese,Bengaluru,Escalations & Warranty,Morning,2,200,194,2.6235,85,8201.37,194,0.1,20,200,0,0,3,0,1
+A3044,Pranav Khanna,Bengaluru,Escalations & Warranty,Day,2,251,244,2.604,101,8214.34,244,0.079681,20,251,0,0,4,0,0
