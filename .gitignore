@@ -1,0 +1,22 @@
+# Sensitive/raw assessment data
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Bob temporary files
+.bob/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
